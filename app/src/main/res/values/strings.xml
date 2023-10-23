@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">SuminCalculator</string>
+    <string name="example_text">10 + 5 = ?</string>
+    <string name="answer">Answer</string>
+    <string name="wrong_answer_text">Sorry the answer is wrong</string>
 </resources>
