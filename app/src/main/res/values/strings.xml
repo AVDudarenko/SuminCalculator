@@ -3,4 +3,6 @@
     <string name="example_text">10 + 5 = ?</string>
     <string name="answer">Answer</string>
     <string name="wrong_answer_text">Sorry the answer is wrong</string>
+    <string name="input_answer_text">Input answer:</string>
+    <string name="correct_answer_text">Correct answer</string>
 </resources>
